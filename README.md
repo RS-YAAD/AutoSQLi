@@ -47,7 +47,7 @@
 <li>Info Domain</li>
 
 
-#Best Method
+# Best Method
 
 <li>SQLi Base64 Method</li>
 
