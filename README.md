@@ -45,3 +45,12 @@
 <li>Host Finder</li>
 
 <li>Info Domain</li>
+
+
+#Best Method
+
+<li>SQLi Base64 Method</li>
+
+<li>SQLi POST Method</li>
+
+<li>SQLi ERROR Based Method</li>
