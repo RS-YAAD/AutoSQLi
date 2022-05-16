@@ -54,3 +54,20 @@
 <li>SQLi POST Method</li>
 
 <li>SQLi ERROR Based Method</li>
+
+
+# Tool Installation
+
+<li>apt update && apt upgrade</li>
+
+<li>git clone https://github.com/RS-YAAD/AutoSQLi</li>
+
+<li>cd AutoSQLi</li>
+
+<li>chmod +x AutoSQLi.sh</li>
+
+<li>./AutoSQLi.sh</li>
+
+# Single Command
+
+<li>git clone https://github.com/RS-YAAD/AutoSQLi && cd AutoSQLi && bash AutoSQLi.sh</li>
