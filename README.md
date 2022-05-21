@@ -1,62 +1,16 @@
 # AutoSQLi
 
-<li>Your IP Address</li>
-
-<li>Normal Site Injection</li>
-
-<li>Mass Xploit Sql-injection</li>
-
-<li>Auto DorKiNg + Auto Xploit</li>
-
-<li>SQLi Base64 Injection</li>
-
-<li>SQLi POST Method</li>
-
-<li>SQLi ERROR Based Method</li>
-
-<li>Extract Links</li>
-
-<li>Scan Site + Auto Inject ( Web Crawler )</li>
-
-<li>Reverse Ip Vuln Sqli + Auto Inject</li>
-
-<li>Query Email Pass Dumper + Auto Filter Mail</li>
-
-<li>Hash Tools</li>
-
-<li>Dork Generator</li>
-
-<li>New Admin Finder</li>
-
-<li>SQLi/Xss/LFI/Admin Finder Scanner</li>
-
-<li>SQLi dork dumper</li>
-
-<li>Auto Bypass Sql Login Tools</li>
-
-<li>Dr.dork Generator</li>
-
-<li>Info Ip And Site</li>
-
-<li>Host DNS Finder</li>
-
-<li>Scanner Port</li>
-
-<li>Host Finder</li>
-
-<li>Info Domain</li>
-
-
 # Best Method
 
 <li>SQLi Base64 Method</li>
 
 <li>SQLi POST Method</li>
 
-<li>SQLi ERROR Based Method</li>
+<li>SQLi ERROR Based Method</li><br><br>
 
 
-# Tool Installation
+<details id="missing-code-coverage">
+<summary>HOW TO INSTALL</summary>
 
 <li>apt update && apt upgrade</li>
 
@@ -66,13 +20,24 @@
 
 <li>chmod +x AutoSQLi.sh</li>
 
-<li>./AutoSQLi.sh</li>
+<li>./AutoSQLi.sh</li></details><br>
 
-# Single Command
-
+<details id="missing-code-coverage">
+<summary>SINGLE COMMAND</summary>
 <li>git clone https://github.com/RS-YAAD/AutoSQLi && cd AutoSQLi && bash AutoSQLi.sh</li>
-
-
-# Contact With Me
-
-<a href="https://www.facebook.com/its.rs.yaad">FACEBOOK: RS YAAD</a>
+</details><br>
+<details id="missing-code-coverage">
+<summary>CONTACT ME</summary><br>
+<details id="missing-code-coverage">
+<summary>FACEBOOK</summary><a href="https://www.facebook.com/its.rs.yaad"><img align="left" title="Facebook" alt="Facebook" width="30px" src="https://github.com/RS-YAAD/RS-YAAD/blob/main/pic/facebook.png" />FACEBOOK</a><br><br>
+</details>
+<details id="missing-code-coverage">
+<summary>MESSENGER</summary><a href="https://m.me/its.rs.yaad"><img align="left" title="Messenger" alt="Messenger" width="30px" src="https://github.com/RS-YAAD/RS-YAAD/blob/main/pic/messenger.png" />MESSENGER</a><br><br>                     
+</details>
+<details id="missing-code-coverage">
+<summary>GMAIL</summary><a href="mailto: its.rs.yaad@gmail.com"><img align="left" title="Gmail" alt="Gmail" width="30px" src="https://github.com/RS-YAAD/RS-YAAD/blob/main/pic/gmail.png" />GMAIL</a><br><br>
+</details>
+<details id="missing-code-coverage">
+<summary>GITHUB</summary><a href="https://github.com/RS-YAAD"><img align="left" title="Github" alt="Github" width="30px" src="https://github.com/RS-YAAD/RS-YAAD/blob/main/pic/github.png" />GITHUB</a>
+</details>
+</details>
